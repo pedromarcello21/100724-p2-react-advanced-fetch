@@ -9,3 +9,12 @@
 - Attaching event listeners in React
 
 - Setting state as an async action
+
+## Getting Started
+
+Fork / clone...
+
+```
+npm install
+npm run dev
+```
