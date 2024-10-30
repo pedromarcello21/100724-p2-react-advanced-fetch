@@ -2,11 +2,13 @@
 
 ## Learning Goals
 
-- capturing value changes with state
+- Capturing values with useState
 
-- two way binding on inputs and input adjacent elements
+- Two way binding
 
-- submitting forms
+- Submitting forms
+
+- Spread operator
 
 ## Getting Started
 
