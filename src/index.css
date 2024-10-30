@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    background: black;
+    padding: 1em;
+}
+
+.card {
+    width: 30em;
+    border: solid black 2px;
+    text-align: center;
+    margin: 1em;
+    padding: 1em;
+}
+
+.card img {
+    width: 30em;
+    height: 30em;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-container {
+    padding: 1em;
+}

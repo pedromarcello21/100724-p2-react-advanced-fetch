@@ -1,14 +1,12 @@
-# React State and Events
+# React Forms
 
 ## Learning Goals
 
-- React hooks
+- capturing value changes with state
 
-- useState
+- two way binding on inputs and input adjacent elements
 
-- Attaching event listeners in React
-
-- Setting state as an async action
+- submitting forms
 
 ## Getting Started
 
