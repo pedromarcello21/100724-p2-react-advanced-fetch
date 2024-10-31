@@ -2,6 +2,8 @@
 
 ## Learning Goals
 
+- Controlled components
+
 - Capturing values with useState
 
 - Two way binding
