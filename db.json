@@ -1,10 +1,16 @@
 {
-    "animals": [
-        {
-            "id": "1",
-            "name": "Bob the raccoon",
-            "image": "https://www.cedarhilltx.com/ImageRepository/Document?documentID=38200",
-            "likes": 3
-        }
-    ]
+  "animals": [
+    {
+      "id": "1",
+      "name": "Bob the raccoon",
+      "image": "https://www.cedarhilltx.com/ImageRepository/Document?documentID=38200",
+      "likes": 8
+    },
+    {
+      "id": "8c66",
+      "name": "whale",
+      "image": "https://cdn.prod.website-files.com/665f17d0fb4bfc1e811460d3/665f17d0fb4bfc1e811468bf_5.jpg",
+      "likes": 0
+    }
+  ]
 }
