@@ -1,0 +1,10 @@
+{
+    "animals": [
+        {
+            "id": "1",
+            "name": "Bob the raccoon",
+            "image": "https://www.cedarhilltx.com/ImageRepository/Document?documentID=38200",
+            "likes": 3
+        }
+    ]
+}
